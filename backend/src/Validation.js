@@ -1,4 +1,3 @@
-//IMPORTING JOI
 const Joi = require('joi');
 
 //REGISTER VALIDATION FUNCTION
@@ -23,7 +22,5 @@ const loginValidation = (data) =>{
 }
 
 
-//EXPORTING THEM
 module.exports.registerValidation =registerValidation;
 module.exports.loginValidation =loginValidation;
-
