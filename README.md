@@ -3,21 +3,20 @@
 ## Set-up project for contribution
 
 ### Setup and start backend
-	
-	```
-	cd backend
-	npm i
-	npm run dev
-	```
-	Change the `.env` and add the required fields
+```	
+cd backend
+npm i
+npm run dev
+```
+Change the `.env` and add the required fields
 
 ### Setup and start frontend
 	
-	```
-	cd frontend
-	npm i
-	npm start
-	```
+```
+cd frontend
+npm i
+npm start
+```
 
 ## Contributing 
 
