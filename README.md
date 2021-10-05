@@ -8,7 +8,9 @@ cd backend
 npm i
 npm run dev
 ```
-Change the `.env` and add the required fields
+Change the `.env` and add the required fields.
+
+For backend api documentation follow [here](backend/Readme.md)
 
 ### Setup and start frontend
 	
