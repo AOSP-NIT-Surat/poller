@@ -1,14 +1,22 @@
 {
   "name": "poller",
   "version": "1.0.0",
-  "description": "",
+  "description": "## Set-up project for contribution",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-	"dev:backend": "cd backend && npm dev",
-	"dev:frontend": "cd frontend && npm start"
+    "dev:backend": "cd backend && npm dev",
+    "dev:frontend": "cd frontend && npm start"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "Harshil-Jani",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Harshil-Jani/poller.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Harshil-Jani/poller/issues"
+  },
+  "homepage": "https://github.com/Harshil-Jani/poller#readme"
 }
