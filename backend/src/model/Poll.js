@@ -19,10 +19,10 @@ const pollSchema = new mongoose.Schema({
     },
     questions: [{ type: String }],
     timeToActivate: {
-        type: BigInt,
+        type: Number,
     },
     timeToDeactivate: {
-        type: BigInt,
+        type: Number,
     },
     isActive: {
         type: Boolean,
